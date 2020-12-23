@@ -2,6 +2,7 @@ from tkinter import messagebox, simpledialog, Tk
 import sys
 import random
 
+
 if __name__ == '__main__':
     window = Tk()
     window.withdraw()
