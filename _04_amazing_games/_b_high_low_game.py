@@ -2,10 +2,10 @@ from tkinter import messagebox, simpledialog, Tk
 import sys
 import random
 
-
 if __name__ == '__main__':
     window = Tk()
     window.withdraw()
+
 
     # 1. Change this line to give you a random number between 1 - 100.
     random_num = random.randint(1, 100)
