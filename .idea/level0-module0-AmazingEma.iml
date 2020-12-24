@@ -6,5 +6,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.5 (level0-module0-AmazingEma)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="LeagueWinterHolidays" />
+    <orderEntry type="module" module-name="HolidaySpecial" />
   </component>
 </module>

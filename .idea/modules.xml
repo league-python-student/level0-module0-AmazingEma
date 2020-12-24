@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HolidaySpecial/.idea/HolidaySpecial.iml" filepath="$PROJECT_DIR$/../HolidaySpecial/.idea/HolidaySpecial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LeagueWinterHolidays/.idea/LeagueWinterHolidays.iml" filepath="$PROJECT_DIR$/../LeagueWinterHolidays/.idea/LeagueWinterHolidays.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/level0-module0-AmazingEma.iml" filepath="$PROJECT_DIR$/.idea/level0-module0-AmazingEma.iml" />
     </modules>
   </component>
